@@ -15,6 +15,7 @@ VSCODE(установить плагины):
 12)eamodio.gitlens
 13)ms-toolsai.jupyter
 14)ms-vsliveshare.vsliveshare
+15)streetsidesoftware.code-spell-checker-russian
 ==================================
 Проверка линтером файлов:
 1) pre-commit run --all-files
